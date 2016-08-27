@@ -1,16 +1,16 @@
-typography_spectrum: 0.6921572282444686
-color:
-  brandStrength: 0.6907328895758837
-  lightness: 0.864886898547411
-  saturation: 0.03813794511370361
-  rhythmicContrast: 0.7527495566755533
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
 layout_spectrum: 0.5647105625830591
+typography_spectrum: 0.05436868965625763
+color:
+  brandStrength: 0.4736541979946196
+  lightness: 0.8896918429527432
+  saturation: 0.04186972137540579
+  rhythmicContrast: 0.8878708304837346
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 name: 'Europe Trip #1'
 title: Europe
 description: Celebrating 25 years
